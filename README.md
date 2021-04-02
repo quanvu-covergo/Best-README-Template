@@ -43,7 +43,7 @@
 
 We should use \*ant-icon\* instead of \*a-icon\*
 
-```
+```JS
 <a-icon type="user" /> => <ant-icon type="user" />
 ```
 
