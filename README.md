@@ -1,4 +1,6 @@
 
+# CoverAPP
+
 ## Installation
 ### Via npm
 ```bash
@@ -39,7 +41,7 @@
     yarn serve
 ```
 
-## Description
+## Descriptions
 
 We should use \*ant-icon\* instead of \*a-icon\*
 
@@ -52,6 +54,12 @@ We should use \*ant-icon\* instead of \*a-icon\*
     ```JS
     <ant-icon type="user" />
     ```
+
+## Some extensions for VSCode
+
+### - [AntDesign Vue Helper](https://marketplace.visualstudio.com/items?itemName=ant-design-vue.vscode-ant-design-vue-helper)
+    
+### - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
