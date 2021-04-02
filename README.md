@@ -43,9 +43,15 @@
 
 We should use \*ant-icon\* instead of \*a-icon\*
 
-```JS
-<a-icon type="user" /> => <ant-icon type="user" />
-```
+- False
+    ```JS
+    <a-icon type="user" />
+    ```
+
+- True
+    ```JS
+    <ant-icon type="user" />
+    ```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
